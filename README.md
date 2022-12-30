@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trezy1
-- 👀 I’m interested in web development (hTML, CSS AND JAVASCRIPT)...
-- 🌱 I’m currently learning ... Javascript
+- 👀 I’m interested in Devops, 
+- 🌱 I’m currently learning ... Terraform,aws and gitlab
 - 💞️ I’m looking to collaborate on ... small prjects
 - 📫 How to reach me ... trezy_2010@hotmail.com
 
